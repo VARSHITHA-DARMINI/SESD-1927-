@@ -1,0 +1,2 @@
+This Python project implements a University Grade Point Average (GPA) calculation and record management system. Utilizing Object-Oriented Programming (OOP) principles, it defines three core classes: Student, Course, and Grade. The system accurately computes the weighted GPA based on course credit hours and strictly validates grade inputs, accepting only standard letter grades (A, B, C, D, F). The package includes a comprehensive unit test suite to ensure the reliability and accuracy of all calculations and error handling.
+
